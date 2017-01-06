@@ -1,0 +1,1 @@
+有道接口调用申请：http://fanyi.youdao.com/openapi?path=data-mode
